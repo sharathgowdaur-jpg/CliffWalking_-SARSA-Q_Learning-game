@@ -2,7 +2,7 @@
 
 A reinforcement learning project implementing and comparing **SARSA** and **Q-Learning** algorithms on the classic CliffWalking gridworld environment.
 
-![CliffWalking Environment](./gameplay-screenshot.png)
+![CliffWalking Environment]("/.assets\gameplay-screenshot.png")
 
 ## Introduction
 
